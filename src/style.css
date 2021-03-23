@@ -1,0 +1,16 @@
+body{
+margin: 0;
+pedding: 0;
+height: 100vh;
+display: flex;
+justify-content: center;
+align-items: center;
+font-family: "Roboto", sans-serif;
+background: #333;  
+}
+
+.chart{
+width: 600px;
+height: 300px;
+display: block;
+}
